@@ -1,6 +1,4 @@
 # machine-learning-challenge
-Data bootcamp repository for Machine Learning homework
-
 
 This project aims to test and tune different classification models using machine learning.
 The data used in this project is from NASA Kepler space telescope to discover hidden planets outside the solar system.
